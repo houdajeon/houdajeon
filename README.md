@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasnaaae&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=houdajeon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -12,7 +12,6 @@
 - 💻 Full-stack developer passionate about building scalable applications  
 - ☕ Currently working mainly with **Java**
 - 🔐 Most of my repositories are **private**
-- 🌍 Based in **Morocco**
 - 🤝 Always open to collaboration and learning new technologies
 
 ---
@@ -47,23 +46,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnaaae&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnaaae&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=houdajeon&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=houdajeon&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnaaae&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houdajeon&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-- 🔢 **Math Skills** – Practice math logic using Go  
-- 🎮 **Guess It** – Simple guessing game  
-- 📊 **Linear Stats** – Linear statistics utilities  
+- 🔢 **0-Shell** –   
+- 🎮 **GraphQL** –  
+- 📊 **Social-Network** – 
 
-> More projects are private or coming soon 🚀
+> More projects are private or coming soon 
 
 ---
 
