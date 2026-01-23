@@ -1,78 +1,190 @@
-<h1 align="center">Hi 👋, I'm houda_hdili</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Houda&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=houdajeon&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%9A%80;Always+Learning+New+Tech+%F0%9F%93%9A;Building+Scalable+Solutions+%E2%9A%A1" alt="Typing SVG" />
+</div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=houdajeon&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/houdajeon?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+</div>
+
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 👨‍💻 About Me
 
-- 💻 Full-stack developer passionate about building scalable applications  
-- ☕ Currently working mainly with **Java**
-- 🔐 Most of my repositories are **private**
-- 🤝 Always open to collaboration and learning new technologies
+```typescript
+const houda = {
+    location: "Morocco 🇲🇦",
+    role: "Full-Stack Developer",
+    currentFocus: "Building scalable applications with Java",
+    openTo: "Collaboration and new opportunities",
+    motto: "Code, Learn, Repeat 🔄"
+};
+```
+
+<br clear="right"/>
+
+- 💻 Passionate about **clean code** and **scalable architecture**
+- ☕ Currently deep diving into **Java** and **Spring Boot**
+- 🔐 Most repositories are **private** (working on cool stuff!)
+- 🌱 Always **learning** and exploring new technologies
+- 🤝 Open to **collaborations** on interesting projects
+- ⚡ Fun fact: I speak **multiple programming languages** fluently
+
+<br>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### 💡 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<div align="center">
+
+### 💡 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,go,rust,ts,js" alt="languages" />
+</p>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Vue.js](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+### 🎨 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,angular,html,css" alt="frontend" />
+</p>
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Backend & Databases
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
-### 🧰 Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=houdajeon&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=houdajeon&theme=tokyonight" height="160"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,postgres,sqlite,graphql" alt="backend" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=houdajeon&layout=compact&theme=tokyonight"/>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🔧 DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux" alt="tools" />
 </p>
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📌 Featured Projects
-
-- 🔢 **0-Shell** – a minimalist Unix-like shell implemented in Rust.
-- 🎮 **GraphQL** – learn the GraphQL query language, by creating your own profile page.
-- 📊 **Social-Network** – create a Facebook-like social network.
-
-> More projects are private or coming soon 
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Statistics
 
-- GitHub: [github.com/houdajeon](https://github.com/houdajeon)
-- Location: Morocco 🇲🇦
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=houdajeon&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=houdajeon&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houdajeon&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=houdajeon&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=houdajeon&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
 
 ---
 
-<p align="center">
-  💡 <i>“Let’s build something great together.”</i>
-</p>
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| 🔢 **0-Shell** | A minimalist Unix-like shell implemented in Rust | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust) |
+| 🎮 **GraphQL Profile** | Interactive profile page built with GraphQL | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) |
+| 📊 **Social Network** | Facebook-like social network platform | ![Full Stack](https://img.shields.io/badge/-Full%20Stack-blue?style=flat-square) |
+
+</div>
+
+<div align="center">
+  <i>💡 More exciting projects coming soon! Most of my work is in private repositories.</i>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=houdajeon&custom_title=Houda's%20Contribution%20Graph&hide_border=true&border_radius=15&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true" width="100%" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Learning] -->|Deep Dive| B(Java & Spring Boot)
+    A -->|Exploring| C(Rust Systems)
+    A -->|Building| D(Full-Stack Apps)
+    B --> E[Better Developer]
+    C --> E
+    D --> E
+```
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/houdajeon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Developer Quote of the Day
+  
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+</div>
+
+  
+**💡 "Let's build something great together!"**
+
+Made with ❤️ and ☕ by Houda
+
+⭐ From [houdajeon](https://github.com/houdajeon)
+
+</div>
