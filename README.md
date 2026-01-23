@@ -58,9 +58,9 @@
 
 ## 📌 Featured Projects
 
-- 🔢 **0-Shell** –   
-- 🎮 **GraphQL** –  
-- 📊 **Social-Network** – 
+- 🔢 **0-Shell** – a minimalist Unix-like shell implemented in Rust.
+- 🎮 **GraphQL** – learn the GraphQL query language, by creating your own profile page.
+- 📊 **Social-Network** – create a Facebook-like social network.
 
 > More projects are private or coming soon 
 
